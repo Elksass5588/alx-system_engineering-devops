@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod mikdir -m 751 my_dir
